@@ -3,4 +3,4 @@ A project developed in NodeJS and express with HBS template engine and mongoDB a
 
 To start the program type `npm start`
 
-- test
+- Amit Jain
